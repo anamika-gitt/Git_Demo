@@ -1,2 +1,4 @@
 # Git_Demo
-This is my first Git Repository.Author - Anamika Bhunia.
+This is my first Git Repository.
+<br>
+Author - Anamika Bhunia.
